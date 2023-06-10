@@ -1,0 +1,1 @@
+# allure_reports_github_page
